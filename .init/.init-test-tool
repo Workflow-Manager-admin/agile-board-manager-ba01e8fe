@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/agile-board-manager-ba01e8fe/agile_backend"
+}
